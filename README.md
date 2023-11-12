@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to our GPT-4-powered article summarizer website! Experience the efficiency of GPT-4 for concise article summaries across various topics. Simply enter an article URL, and let GPT-4 generate informative summaries effortlessly.
+Welcome to my GPT-4-powered article summarizer website! Experience the efficiency of GPT-4 for concise article summaries across various topics. Simply enter an article URL, and let GPT-4 generate informative summaries effortlessly.
 
 ## Technologies
 
@@ -14,15 +14,12 @@ Welcome to our GPT-4-powered article summarizer website! Experience the efficien
 
 ## Getting Started
 
-Visit our website, enter an article URL, and let GPT-4 summarize the article for you.
+Visit the website: https://lucent-twilight-4efbfb.netlify.app/
 
 ## Contributing
 
-We welcome contributions and feedback. Submit issues or pull requests to enhance our platform.
+We welcome contributions and feedback. Submit issues or pull requests to enhance the platform.
 
-## Contact
-
-For inquiries, reach out to [email@example.com](mailto:email@example.com). Thank you for choosing our GPT-4 Article Summarizer!
-
+Thank you for choosing my GPT-4 Article Summarizer!
 Best,
-The Team
+Bar
