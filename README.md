@@ -4,6 +4,8 @@
 
 Welcome to my GPT-4-powered article summarizer website! Experience the efficiency of GPT-4 for concise article summaries across various topics. Simply enter an article URL, and let GPT-4 generate informative summaries effortlessly.
 
+![summarizer](https://github.com/bar2693lis/OpenAiArticleSummarizer/assets/48059962/0b3b17e9-3980-461e-be19-5b6b87419f3b)
+
 ## Technologies
 
 - **React**: Dynamic UI
